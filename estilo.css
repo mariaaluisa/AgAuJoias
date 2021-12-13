@@ -1,0 +1,95 @@
+body{
+	background-color: black;
+}
+
+.menu ul{
+	padding: 0px;
+	margin: 0px;
+	background-color: black;
+	list-style: none;
+	width: 754px;
+
+}
+.menu ul li{
+	display: inline;
+}
+
+.menu ul li a{
+	padding: 2px 10px;
+	display:inline-block;
+	background-color: #edede;
+	color: white;
+	text-decoration: none;
+	border-bottom: 2px solid #edede;
+}
+
+.menu ul li a:hover{
+	background-color: gray;
+	color: white;	
+}
+
+img.imagens {
+	width: 300px;
+	height: 300px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: thin solid black;
+	border-radius: 20px;
+}
+img.icones {
+	width: 150px;
+	height: 150px;
+	display: block;
+	border: thin solid black;
+	border-radius: 400px;
+}
+
+.linha{
+	color: silver;
+	
+  height: 900px;
+  width: 1000px;
+  
+  border: 1px solid black;
+  display: block;
+}
+
+img.produtos{
+	width: 250px;
+	height: 250px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;	
+	border: thin solid black;
+	border-radius: 20px;
+	font-weight: none;
+}
+.produto{
+	
+	font-weight: bold;
+}
+
+.titulos{
+	color: orange;
+	font-size: 50px;
+	font-family: Garamond;
+
+}
+img.logo{
+	width: 450px;
+	height: 450px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: thin solid black;
+	border-radius: 20px;
+}
+
+.titulo{
+	color: orange;
+}
+
+.textos{
+	color: silver;
+}
